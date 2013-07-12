@@ -4,4 +4,4 @@ Topical
 
 Annoyances
 ----------
-* `^@[username-without-brackets] *https?://[^ ]+$` - Spammy links with no other text
+* `^@[twitter-handle-without-brackets] *https?://[^ ]+$` - Spammy links with no other text
