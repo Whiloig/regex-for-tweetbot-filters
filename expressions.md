@@ -2,6 +2,7 @@ Topical
 -----------
 * `(?i)#?sharknado?` - Sharknado
 * `.*[rR]oyal.*[Bb]*[aA4]*b*y*` - Royal Baby
+* `[O|o]scars?` - Oscars
 
 Annoyances
 ----------
